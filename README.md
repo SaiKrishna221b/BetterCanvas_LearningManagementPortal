@@ -31,8 +31,9 @@ Project name: EduSpear
 
 * Sai:
   - Implemented Faculties APIs
-  - Tested back-end APIs
-  - Setup DB on AWS
+  - Testing framework for API contracts
+  - Vulnerability scans with simulated traffic
+  - Setup and managed RDS DB on AWS
 
 # Documents and Links
 
